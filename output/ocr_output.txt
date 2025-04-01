@@ -1,0 +1,35 @@
+🧾 Texto extraído do PDF com Copilot:
+
+Felipe De Moraes  
+Recife, Brasil  
+Telefone: 81973009881  
+E-mail: moorraes16@gmail.com  
+GitHub | LinkedIn
+
+Competências:
+- Git
+- HTML & CSS
+- Java
+- Python
+- Docker
+- React
+- MySQL
+- JavaScript
+
+Idiomas:
+- Inglês
+
+Perfil:
+Sou um desenvolvedor Full Stack apaixonado por criar soluções eficientes e intuitivas. Atuo no desenvolvimento de módulos para aplicações Back-End e Front-End. Procuro por oportunidades na área de tecnologia com o objetivo de adquirir conhecimentos profissionais e aprendizados relacionados à minha carreira, sempre buscando agregar valor dentro da instituição.
+
+Experiência Profissional:
+Estagiário - SES Soluções Empresariais Em Sistemas LTDA, Recife (Julho 2024 - Presente)
+Atuando no desenvolvimento e aprimoramento de soluções tecnológicas com experiência em Python, Django, HTML, CSS, JavaScript, MySQL e Docker. Participei ativamente da concepção de sistemas de Ticket de Suporte e Legalizações.
+
+Cursos:
+- Data Science: Alura (Abril 2024 - Maio 2025)
+- MySQL: Alura (Maio 2024 - Maio 2024)
+- SQL e Projetos Reais: Udemy (Maio 2024 - Maio 2025)
+- React com JavaScript: Alura (Maio 2024 - Maio 2024)
+- Git e GitHub: Alura (Agosto 2024 - Setembro 2025)
+- Algoritmos e Lógica de Programação: Udemy (Março 2024 - Abril 2024)
